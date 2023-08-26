@@ -33,7 +33,3 @@ Clone or download this repository to your computer.
 Place the input data files schools_complete.csv and students_complete.csv in the Resources folder.
 Open the Analysis.ipynb notebook using Jupyter Notebook or JupyterLab.
 Execute the cells in the notebook sequentially to run the analysis.
-The generated summary data will be saved in the Output folder as CSV files.
-Feel free to explore, modify, and adapt the notebook to gain insights from the PyCity Schools dataset. For any questions or assistance, please contact [Your Name] at [your@email.com].
-
-Enjoy the analysis!
